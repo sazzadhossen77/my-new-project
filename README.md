@@ -1,2 +1,2 @@
 # my-new-project
-# i am writing in readme filegit 
+# i am writing in readme file
